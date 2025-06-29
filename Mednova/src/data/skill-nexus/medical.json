@@ -1,0 +1,131 @@
+{
+  "domain": "medical",
+  "name": "Medical Sciences",
+  "description": "Comprehensive medical education from basic sciences to clinical practice",
+  "levels": [
+    {
+      "level": 1,
+      "title": "Basic Medical Sciences",
+      "skills": [
+        {
+          "id": "anatomy-fundamentals",
+          "name": "Human Anatomy",
+          "description": "Understanding basic human body structure and organization",
+          "xp_required": 0,
+          "cases": [
+            "Cardiovascular System Overview",
+            "Respiratory System Structure",
+            "Musculoskeletal Anatomy"
+          ]
+        },
+        {
+          "id": "physiology-basics",
+          "name": "Basic Physiology",
+          "description": "How body systems function normally",
+          "xp_required": 300,
+          "cases": [
+            "Cardiac Cycle Analysis",
+            "Respiratory Mechanics",
+            "Renal Function Assessment"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "title": "Pathophysiology",
+      "skills": [
+        {
+          "id": "disease-processes",
+          "name": "Disease Mechanisms",
+          "description": "Understanding how diseases affect normal body function",
+          "xp_required": 800,
+          "cases": [
+            "Inflammatory Response",
+            "Cellular Injury Patterns",
+            "Immune System Disorders"
+          ]
+        },
+        {
+          "id": "pharmacology-intro",
+          "name": "Drug Actions",
+          "description": "Basic principles of pharmacology and therapeutics",
+          "xp_required": 1200,
+          "cases": [
+            "Drug Absorption and Distribution",
+            "Receptor Interactions",
+            "Adverse Drug Reactions"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "title": "Clinical Medicine",
+      "skills": [
+        {
+          "id": "patient-assessment",
+          "name": "Clinical Assessment",
+          "description": "History taking and physical examination skills",
+          "xp_required": 2000,
+          "cases": [
+            "Comprehensive History Taking",
+            "Physical Examination Techniques",
+            "Clinical Reasoning Process"
+          ]
+        },
+        {
+          "id": "diagnostic-skills",
+          "name": "Diagnostic Medicine",
+          "description": "Interpreting investigations and forming diagnoses",
+          "xp_required": 2500,
+          "cases": [
+            "Laboratory Test Interpretation",
+            "Imaging Analysis",
+            "Differential Diagnosis"
+          ]
+        }
+      ]
+    }
+  ],
+  "patient_cases": [
+    {
+      "title": "Chest Pain Evaluation",
+      "description": "Assess and diagnose a patient presenting with acute chest pain",
+      "difficulty": "intermediate",
+      "estimated_time": 45,
+      "skills": ["patient-assessment", "diagnostic-skills", "anatomy-fundamentals"],
+      "patient_profile": {
+        "age": 45,
+        "gender": "Male",
+        "chief_complaint": "Severe chest pain for 2 hours",
+        "vitals": {
+          "bp": "160/95",
+          "hr": "110",
+          "rr": "22",
+          "temp": "98.6°F",
+          "spo2": "96%"
+        }
+      }
+    },
+    {
+      "title": "Pediatric Fever Case",
+      "description": "Evaluate a febrile child and determine appropriate management",
+      "difficulty": "beginner",
+      "estimated_time": 30,
+      "skills": ["patient-assessment", "disease-processes"],
+      "patient_profile": {
+        "age": 6,
+        "gender": "Female",
+        "chief_complaint": "High fever and irritability for 1 day",
+        "vitals": {
+          "bp": "90/60",
+          "hr": "130",
+          "rr": "28",
+          "temp": "102.5°F",
+          "spo2": "98%"
+        }
+      }
+    }
+  ]
+}

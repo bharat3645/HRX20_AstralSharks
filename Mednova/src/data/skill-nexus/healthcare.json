@@ -1,0 +1,119 @@
+{
+  "domain": "healthcare",
+  "name": "Medicine & Healthcare",
+  "description": "Advance your medical knowledge and patient care skills",
+  "levels": [
+    {
+      "level": 1,
+      "title": "Medical Foundations",
+      "skills": [
+        {
+          "id": "anatomy-basics",
+          "name": "Human Anatomy",
+          "description": "Understanding basic human body systems and structures",
+          "xp_required": 0,
+          "quests": [
+            "Cardiovascular System Overview",
+            "Respiratory System Function",
+            "Musculoskeletal Basics"
+          ]
+        },
+        {
+          "id": "medical-terminology",
+          "name": "Medical Terminology",
+          "description": "Learning essential medical vocabulary and abbreviations",
+          "xp_required": 200,
+          "quests": [
+            "Common Medical Prefixes",
+            "Body System Terms",
+            "Clinical Abbreviations"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "title": "Clinical Knowledge",
+      "skills": [
+        {
+          "id": "pharmacology",
+          "name": "Pharmacology",
+          "description": "Understanding medications and their effects",
+          "xp_required": 500,
+          "quests": [
+            "Drug Classifications",
+            "Dosage Calculations",
+            "Side Effects Recognition"
+          ]
+        },
+        {
+          "id": "diagnostics",
+          "name": "Diagnostic Procedures",
+          "description": "Learning diagnostic methods and interpretation",
+          "xp_required": 700,
+          "quests": [
+            "Vital Signs Assessment",
+            "Laboratory Values",
+            "Imaging Interpretation"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "title": "Advanced Practice",
+      "skills": [
+        {
+          "id": "patient-care",
+          "name": "Patient Care",
+          "description": "Advanced patient interaction and care planning",
+          "xp_required": 1000,
+          "quests": [
+            "Care Plan Development",
+            "Patient Communication",
+            "Family Counseling"
+          ]
+        },
+        {
+          "id": "medical-ethics",
+          "name": "Medical Ethics",
+          "description": "Understanding ethical principles in healthcare",
+          "xp_required": 1200,
+          "quests": [
+            "Informed Consent",
+            "End-of-Life Decisions",
+            "Research Ethics"
+          ]
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Patient Case Study Analysis",
+      "description": "Analyze a complex patient case and develop treatment plan",
+      "difficulty": "intermediate",
+      "estimated_hours": 6,
+      "skills": ["anatomy-basics", "pharmacology", "diagnostics"],
+      "deliverables": [
+        "Patient Assessment",
+        "Differential Diagnosis",
+        "Treatment Plan",
+        "Follow-up Protocol"
+      ]
+    },
+    {
+      "title": "Healthcare Quality Improvement Project",
+      "description": "Design a quality improvement initiative for a healthcare setting",
+      "difficulty": "advanced",
+      "estimated_hours": 10,
+      "skills": ["patient-care", "medical-ethics", "diagnostics"],
+      "deliverables": [
+        "Current State Analysis",
+        "Improvement Plan",
+        "Implementation Timeline",
+        "Success Metrics"
+      ]
+    }
+  ]
+}

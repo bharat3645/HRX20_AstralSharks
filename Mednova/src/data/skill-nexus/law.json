@@ -1,0 +1,119 @@
+{
+  "domain": "law",
+  "name": "Law & Legal Reasoning",
+  "description": "Develop legal expertise and critical thinking skills",
+  "levels": [
+    {
+      "level": 1,
+      "title": "Legal Foundations",
+      "skills": [
+        {
+          "id": "legal-system",
+          "name": "Legal System Basics",
+          "description": "Understanding court systems and legal processes",
+          "xp_required": 0,
+          "quests": [
+            "Court Hierarchy",
+            "Civil vs Criminal Law",
+            "Legal Procedure Overview"
+          ]
+        },
+        {
+          "id": "constitutional-law",
+          "name": "Constitutional Law",
+          "description": "Fundamental constitutional principles and rights",
+          "xp_required": 200,
+          "quests": [
+            "Bill of Rights",
+            "Separation of Powers",
+            "Due Process Clause"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "title": "Legal Analysis",
+      "skills": [
+        {
+          "id": "contract-law",
+          "name": "Contract Law",
+          "description": "Understanding contracts and agreement principles",
+          "xp_required": 500,
+          "quests": [
+            "Contract Formation",
+            "Breach of Contract",
+            "Contract Remedies"
+          ]
+        },
+        {
+          "id": "legal-research",
+          "name": "Legal Research",
+          "description": "Research methods and case law analysis",
+          "xp_required": 700,
+          "quests": [
+            "Case Law Research",
+            "Statute Interpretation",
+            "Legal Citation"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "title": "Advanced Legal Practice",
+      "skills": [
+        {
+          "id": "case-analysis",
+          "name": "Case Analysis",
+          "description": "Advanced case briefing and legal reasoning",
+          "xp_required": 1000,
+          "quests": [
+            "Case Brief Writing",
+            "Legal Argument Construction",
+            "Precedent Analysis"
+          ]
+        },
+        {
+          "id": "litigation",
+          "name": "Litigation Process",
+          "description": "Understanding trial procedures and advocacy",
+          "xp_required": 1200,
+          "quests": [
+            "Motion Practice",
+            "Evidence Rules",
+            "Trial Advocacy"
+          ]
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Legal Memorandum",
+      "description": "Research and write a comprehensive legal memorandum",
+      "difficulty": "intermediate",
+      "estimated_hours": 8,
+      "skills": ["legal-research", "case-analysis", "constitutional-law"],
+      "deliverables": [
+        "Issue Statement",
+        "Legal Research",
+        "Analysis Section",
+        "Conclusion"
+      ]
+    },
+    {
+      "title": "Mock Trial Preparation",
+      "description": "Prepare a complete case for mock trial proceedings",
+      "difficulty": "advanced",
+      "estimated_hours": 15,
+      "skills": ["litigation", "case-analysis", "contract-law"],
+      "deliverables": [
+        "Case Strategy",
+        "Witness Preparation",
+        "Evidence Presentation",
+        "Closing Arguments"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "domain": "business",
+  "name": "Business & Marketing",
+  "description": "Master entrepreneurship, strategy, and marketing fundamentals",
+  "levels": [
+    {
+      "level": 1,
+      "title": "Business Foundations",
+      "skills": [
+        {
+          "id": "business-basics",
+          "name": "Business Fundamentals",
+          "description": "Understanding core business concepts and terminology",
+          "xp_required": 0,
+          "quests": [
+            "What is a Business Model?",
+            "Understanding Revenue Streams",
+            "Basic Market Research"
+          ]
+        },
+        {
+          "id": "marketing-intro",
+          "name": "Marketing Basics",
+          "description": "Introduction to marketing principles and customer understanding",
+          "xp_required": 200,
+          "quests": [
+            "Target Audience Identification",
+            "Marketing Mix (4 Ps)",
+            "Customer Journey Mapping"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "title": "Strategic Thinking",
+      "skills": [
+        {
+          "id": "strategy-development",
+          "name": "Strategic Planning",
+          "description": "Developing business strategies and competitive analysis",
+          "xp_required": 500,
+          "quests": [
+            "SWOT Analysis Workshop",
+            "Competitive Landscape Mapping",
+            "Strategic Goal Setting"
+          ]
+        },
+        {
+          "id": "financial-literacy",
+          "name": "Financial Management",
+          "description": "Understanding business finances and budgeting",
+          "xp_required": 700,
+          "quests": [
+            "Reading Financial Statements",
+            "Budget Planning Exercise",
+            "ROI Calculation Practice"
+          ]
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "title": "Advanced Business Operations",
+      "skills": [
+        {
+          "id": "leadership",
+          "name": "Leadership & Management",
+          "description": "Leading teams and managing business operations",
+          "xp_required": 1000,
+          "quests": [
+            "Team Building Strategies",
+            "Performance Management",
+            "Change Management"
+          ]
+        },
+        {
+          "id": "digital-marketing",
+          "name": "Digital Marketing",
+          "description": "Online marketing strategies and analytics",
+          "xp_required": 1200,
+          "quests": [
+            "Social Media Strategy",
+            "SEO Fundamentals",
+            "Email Marketing Campaign"
+          ]
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Business Plan Development",
+      "description": "Create a comprehensive business plan for a startup idea",
+      "difficulty": "intermediate",
+      "estimated_hours": 8,
+      "skills": ["business-basics", "strategy-development", "financial-literacy"],
+      "deliverables": [
+        "Executive Summary",
+        "Market Analysis",
+        "Financial Projections",
+        "Marketing Strategy"
+      ]
+    },
+    {
+      "title": "Marketing Campaign Design",
+      "description": "Design and plan a complete marketing campaign",
+      "difficulty": "advanced",
+      "estimated_hours": 12,
+      "skills": ["marketing-intro", "digital-marketing", "strategy-development"],
+      "deliverables": [
+        "Campaign Strategy Document",
+        "Creative Assets",
+        "Budget Allocation",
+        "Success Metrics"
+      ]
+    }
+  ]
+}
