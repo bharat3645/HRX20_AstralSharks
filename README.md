@@ -10,11 +10,55 @@
 
 > **Transform your learning journey with AI-powered, gamified education across multiple professional domains**
 
+## 🎮 Live Demos
+
+### 🌟 Main Hub - Astral AI
+**[🌐 Live Demo](https://astral-sharks.netlify.app/)** | **[📁 Repository](https://github.com/bharat3645/HRX20_AstralSharks.git)**
+
+![Astral AI Hub Demo](https://via.placeholder.com/800x400/1e293b/ffffff?text=Astral+AI+Hub+-+Domain+Selection)
+
+### 🎯 Mentoro AI - Programming Education
+**[🌐 Live Demo](https://mentoro-ai.netlify.app/)** | **[📁 Code](/Mentoro)**
+
+![Mentoro AI Demo](https://via.placeholder.com/800x400/3b82f6/ffffff?text=Mentoro+AI+-+Coding+Mentor)
+
+**Key Features Demo:**
+- **Coding Arena**: Real-time competitive programming battles
+- **AI Buddy**: Multi-personality coding mentor
+- **DIY Generator**: AI-powered project creation
+- **Skill Tree**: Visual learning progression
+- **Flashcard Battles**: Gamified programming concepts
+
+### 🏥 MedNova AI - Medical Education
+**[🌐 Live Demo](https://mednova-ai.netlify.app/)** | **[📁 Code](/Mednova)**
+
+![MedNova AI Demo](https://via.placeholder.com/800x400/10b981/ffffff?text=MedNova+AI+-+Medical+Training)
+
+**Key Features Demo:**
+- **Patient Cases**: Interactive medical scenarios
+- **AI Medical Mentor**: Specialized healthcare AI
+- **Patient Simulator**: Virtual patient interactions
+- **Med Battle**: Medical knowledge competitions
+- **Study Journal**: Progress tracking
+
+### 💰 Finova AI - Financial Education
+**[🌐 Live Demo](https://finova-ai.netlify.app/)** | **[📁 Code](/Finova)**
+
+![Finova AI Demo](https://via.placeholder.com/800x400/f59e0b/ffffff?text=Finova+AI+-+Financial+Intelligence)
+
+**Key Features Demo:**
+- **AI Mentor**: Financial market guidance
+- **Scenario Simulator**: Trading simulations
+- **Campaign Builder**: Strategy development
+- **Equation Trainer**: Financial formulas
+- **Flashcard Vault**: Financial concepts
+
 ## 📖 Table of Contents
 
 - [🌟 Overview](#-overview)
+- [🎮 Live Demos](#-live-demos)
 - [🏗️ Architecture](#️-architecture)
-- [🎮 Domains](#-domains)
+- [🎯 Domains](#-domains)
 - [✨ Features](#-features)
 - [🛠️ Technology Stack](#️-technology-stack)
 - [🚀 Getting Started](#-getting-started)
@@ -69,11 +113,13 @@ Astral AI/
 └── README.md             # This file
 ```
 
-## 🎮 Domains
+## 🎯 Domains
 
 ### 🎯 Mentoro AI - Your AI Coding Mentor
 
 **Focus**: Programming, Software Development, Computer Science
+
+**Live Demo**: **[🌐 Try Mentoro AI](https://mentoro-ai.netlify.app/)**
 
 **Key Features**:
 - **Coding Arena**: Real-time competitive programming battles
@@ -90,6 +136,8 @@ Astral AI/
 
 **Focus**: Medical Education, Clinical Training, Healthcare
 
+**Live Demo**: **[🌐 Try MedNova AI](https://mednova-ai.netlify.app/)**
+
 **Key Features**:
 - **Patient Cases**: Interactive medical scenarios and case studies
 - **AI Medical Mentor**: Specialized medical AI assistant
@@ -104,6 +152,8 @@ Astral AI/
 ### 💰 Finova AI - Smart Financial Intelligence
 
 **Focus**: Financial Markets, Trading, Investment Analysis
+
+**Live Demo**: **[🌐 Try Finova AI](https://finova-ai.netlify.app/)**
 
 **Key Features**:
 - **AI Mentor**: Financial market guidance and analysis
@@ -205,8 +255,8 @@ Astral AI/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/astral-ai.git
-   cd astral-ai
+   git clone https://github.com/bharat3645/HRX20_AstralSharks.git
+   cd HRX20_AstralSharks
    ```
 
 2. **Install root dependencies**
@@ -825,8 +875,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 - **Documentation**: [docs.astral-ai.com](https://docs.astral-ai.com)
-- **Issues**: [GitHub Issues](https://github.com/your-username/astral-ai/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-username/astral-ai/discussions)
+- **Issues**: [GitHub Issues](https://github.com/bharat3645/HRX20_AstralSharks/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/bharat3645/HRX20_AstralSharks/discussions)
 - **Email**: support@astral-ai.com
 
 ---
