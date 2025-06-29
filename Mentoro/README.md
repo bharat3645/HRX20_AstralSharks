@@ -2,7 +2,7 @@
 
 A gamified coding learning platform that transforms programming education into an epic space adventure. Master coding skills through quests, battles, and AI-powered mentorship in a beautifully designed cyberpunk universe.
 
-![AI Companion Quest](https://images.pexels.com/photos/2004161/pexels-photo-2004161.jpeg?auto=compress&cs=tinysrgb&w=1200&h=400&fit=crop)
+![AI Companion Quest](/Mentoro/Demo.png)
 
 ## ✨ Features
 
