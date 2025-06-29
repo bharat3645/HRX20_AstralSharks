@@ -32,7 +32,7 @@
 ### 🏥 MedNova AI - Medical Education
 **[🌐 Live Demo](https://mednova-ai.netlify.app/)** | **[📁 Code](/Mednova)**
 
-![MedNova AI Demo](https://via.placeholder.com/800x400/10b981/ffffff?text=MedNova+AI+-+Medical+Training)
+![MedNova AI Demo](/Mednova/demo.png)
 
 **Key Features Demo:**
 - **Patient Cases**: Interactive medical scenarios
@@ -44,7 +44,7 @@
 ### 💰 Finova AI - Financial Education
 **[🌐 Live Demo](https://finova-ai.netlify.app/)** | **[📁 Code](/Finova)**
 
-![Finova AI Demo](https://via.placeholder.com/800x400/f59e0b/ffffff?text=Finova+AI+-+Financial+Intelligence)
+![Finova AI Demo](/Finova/demo.png)
 
 **Key Features Demo:**
 - **AI Mentor**: Financial market guidance
