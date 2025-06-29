@@ -15,7 +15,7 @@
 ### 🌟 Main Hub - Astral AI
 **[🌐 Live Demo](https://astral-sharks.netlify.app/)** | **[📁 Repository](https://github.com/bharat3645/HRX20_AstralSharks.git)**
 
-![Astral AI Hub Demo](https://via.placeholder.com/800x400/1e293b/ffffff?text=Astral+AI+Hub+-+Domain+Selection)
+![Astral AI Hub Demo](demo.png)
 
 ### 🎯 Mentoro AI - Programming Education
 **[🌐 Live Demo](https://mentoro-ai.netlify.app/)** | **[📁 Code](/Mentoro)**
