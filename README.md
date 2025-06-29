@@ -20,7 +20,7 @@
 ### 🎯 Mentoro AI - Programming Education
 **[🌐 Live Demo](https://mentoro-ai.netlify.app/)** | **[📁 Code](/Mentoro)**
 
-![Mentoro AI Demo](https://via.placeholder.com/800x400/3b82f6/ffffff?text=Mentoro+AI+-+Coding+Mentor)
+![Mentoro AI Demo](Mentoro/demo.png)
 
 **Key Features Demo:**
 - **Coding Arena**: Real-time competitive programming battles
